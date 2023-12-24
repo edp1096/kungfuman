@@ -1,3 +1,7 @@
+For `Orange Pi 5 Plus` testing
+
+Target: [4037f7c](https://github.com/ikemen-engine/Ikemen-GO/tree/4037f7c4fef786f52918f7f39a1f6cf496849807)
+
 # Ikemen_GO-Elecbyte-Screenpack
 Electbyte's Mugen screenpack and font files with some modifications for Ikemen GO
 
