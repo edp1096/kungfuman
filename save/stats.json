@@ -1,1 +1,57 @@
-{}
+{
+  "modes": {
+    "watch": {
+      "playtime": 0
+    },
+    "arcade": {
+      "playtime": 215.98,
+      "clear": 3,
+      "clearcount": {
+        "kfmz": 2,
+        "kfm720": 1
+      },
+      "ranking": [
+        {
+          "score": 54500,
+          "time": 63.48,
+          "name": "AAA",
+          "chars": [
+            "kfmz"
+          ],
+          "tmode": 0,
+          "ailevel": 1,
+          "win": 1,
+          "lose": 0,
+          "consecutive": 1
+        },
+        {
+          "score": 48200,
+          "time": 55.33,
+          "name": "AAA",
+          "chars": [
+            "kfm720"
+          ],
+          "tmode": 0,
+          "ailevel": 1,
+          "win": 1,
+          "lose": 0,
+          "consecutive": 1
+        },
+        {
+          "score": 36800,
+          "time": 97.17,
+          "name": "AAA",
+          "chars": [
+            "kfmz"
+          ],
+          "tmode": 0,
+          "ailevel": 1,
+          "win": 1,
+          "lose": 0,
+          "consecutive": 1
+        }
+      ]
+    }
+  },
+  "playtime": 215.98
+}

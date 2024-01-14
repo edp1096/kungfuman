@@ -38,9 +38,9 @@
   "DebugConsoleRows": 15,
   "DebugFont": "font/debug.def",
   "DebugFontScale": 0.5,
-  "DebugKeys": true,
-  "DebugMode": true,
-  "Difficulty": 3,
+  "DebugKeys": false,
+  "DebugMode": false,
+  "Difficulty": 1,
   "EscOpensMenu": true,
   "ExternalShaders": [],
   "FirstRun": false,
@@ -84,7 +84,7 @@
     4
   ],
   "PanningRange": 30,
-  "Players": 4,
+  "Players": 2,
   "PngSpriteFilter": true,
   "PostProcessingShader": 0,
   "QuickContinue": false,
@@ -118,7 +118,7 @@
   "TurnsRecoveryBase": 0,
   "TurnsRecoveryBonus": 20,
   "VolumeBgm": 80,
-  "VolumeMaster": 80,
+  "VolumeMaster": 100,
   "VolumeSfx": 80,
   "VRetrace": 1,
   "WavChannels": 32,
@@ -171,44 +171,6 @@
         "RBRACKET",
         "Not used"
       ]
-    },
-    {
-      "Joystick": -1,
-      "Buttons": [
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used"
-      ]
-    },
-    {
-      "Joystick": -1,
-      "Buttons": [
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used",
-        "Not used"
-      ]
     }
   ],
   "JoystickConfig": [
@@ -233,44 +195,6 @@
     },
     {
       "Joystick": 1,
-      "Buttons": [
-        "10",
-        "12",
-        "13",
-        "11",
-        "0",
-        "1",
-        "5",
-        "2",
-        "3",
-        "-12",
-        "7",
-        "4",
-        "-10",
-        "6"
-      ]
-    },
-    {
-      "Joystick": 2,
-      "Buttons": [
-        "10",
-        "12",
-        "13",
-        "11",
-        "0",
-        "1",
-        "5",
-        "2",
-        "3",
-        "-12",
-        "7",
-        "4",
-        "-10",
-        "6"
-      ]
-    },
-    {
-      "Joystick": 3,
       "Buttons": [
         "10",
         "12",
